@@ -1,0 +1,8 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+E:/FPGA-workspace/axi_slave_garin_ip/axi_slave_garin_ip.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+E:/FPGA-workspace/axi_slave_garin_ip/src/RAM.v,1678695280,verilog,,E:/FPGA-workspace/axi_slave_garin_ip/src/saxi_full_garin.v,,RAM,,,,,,,,
+E:/FPGA-workspace/axi_slave_garin_ip/src/saxi_full_garin.v,1678883122,verilog,,E:/FPGA-workspace/axi_slave_garin_ip/src/saxi_full_garin_tb.v,,saxi_full_garin,,,,,,,,
+E:/FPGA-workspace/axi_slave_garin_ip/src/saxi_full_garin_tb.v,1678863418,verilog,,,,saxi_full_garin_tb,,,,,,,,

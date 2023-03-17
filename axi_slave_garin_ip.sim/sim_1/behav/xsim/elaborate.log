@@ -1,0 +1,24 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: D:/xilinx-vivado/Vivado/2021.1/bin/unwrapped/win64.o/xelab.exe -wto a3f2659e10c54870a637bd5f067ae238 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot saxi_full_garin_tb_behav xil_defaultlib.saxi_full_garin_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 2 for port 'S_AXI_ARUSER' [E:/FPGA-workspace/axi_slave_garin_ip/src/saxi_full_garin_tb.v:103]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 2 for port 'S_AXI_AWUSER' [E:/FPGA-workspace/axi_slave_garin_ip/src/saxi_full_garin_tb.v:116]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 2 for port 'S_AXI_BUSER' [E:/FPGA-workspace/axi_slave_garin_ip/src/saxi_full_garin_tb.v:121]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 2 for port 'S_AXI_RUSER' [E:/FPGA-workspace/axi_slave_garin_ip/src/saxi_full_garin_tb.v:128]
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 2 for port 'S_AXI_WUSER' [E:/FPGA-workspace/axi_slave_garin_ip/src/saxi_full_garin_tb.v:134]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'wr_en' [E:/FPGA-workspace/axi_slave_garin_ip/src/saxi_full_garin.v:475]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'rd_en' [E:/FPGA-workspace/axi_slave_garin_ip/src/saxi_full_garin.v:479]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "E:/FPGA-workspace/axi_slave_garin_ip/src/RAM.v" Line 1. Module RAM_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/FPGA-workspace/axi_slave_garin_ip/src/RAM.v" Line 1. Module RAM_default doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.RAM_default
+Compiling module xil_defaultlib.saxi_full_garin
+Compiling module xil_defaultlib.saxi_full_garin_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot saxi_full_garin_tb_behav

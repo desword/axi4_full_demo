@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/FPGA-workspace/axi_slave_garin_ip/src/RAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/FPGA-workspace/axi_slave_garin_ip/src/saxi_full_garin.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module saxi_full_garin
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/FPGA-workspace/axi_slave_garin_ip/src/saxi_full_garin_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module saxi_full_garin_tb

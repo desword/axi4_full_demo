@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Wed Mar 15 20:41:22 2023
+# Process ID: 49684
+# Current directory: E:/FPGA-workspace/axi_slave_garin_ip/axi_slave_garin_ip.runs/synth_1
+# Command line: vivado.exe -log saxi_full_garin.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source saxi_full_garin.tcl
+# Log file: E:/FPGA-workspace/axi_slave_garin_ip/axi_slave_garin_ip.runs/synth_1/saxi_full_garin.vds
+# Journal file: E:/FPGA-workspace/axi_slave_garin_ip/axi_slave_garin_ip.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source saxi_full_garin.tcl -notrace
